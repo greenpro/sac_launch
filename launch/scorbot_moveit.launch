@@ -1,4 +1,7 @@
 <launch>
-    <include file="$(find sac_config)/launch/scorbot_load.launch"></include>
+    <include file="$(find scorbot_config)/launch/planning_context.launch">
+        <arg name="load_robot_description" value="true" />
+    </include>
+    <!--include file="$(find scorbot_config)/launch/scorbot_load.launch"></include-->
     <include file="$(find sac_translators)/launch/scorbot_moveit.launch"></include>
 </launch>
