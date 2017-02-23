@@ -1,4 +1,4 @@
 <launch>
     <include file="$(find sac_config)/launch/scorbot_load.launch"></include>
-    <include file="$(find sac_translators)/launch/scorbot_moveit.launch"></include>
+    <!--include file="$(find sac_translators)/launch/scorbot_moveit.launch"></include-->
 </launch>
