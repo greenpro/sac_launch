@@ -1,4 +1,0 @@
-<launch>
-    <include file="$(find sac_config)/launch/andreas_arm_load.launch"></include>
-    <include file="$(find sac_translators)/launch/andreas_arm_moveit.launch"></include>
-</launch>

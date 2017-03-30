@@ -3,4 +3,8 @@
 This file holds the launch files for the project.
 
 ## Files
-TODO :: Add files when this project is more complete
+### scorbot.launch
+* This file will launch all of the required projects to run the system as a whole.
+
+### scorbot_rpi.launch
+* This file will launch all of the required projects to run the system as a whole on the RPi.
