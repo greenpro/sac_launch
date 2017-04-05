@@ -2,5 +2,5 @@
     <include file="$(find sac_gazebo)/launch/scorbot_world.launch"></include>
     <include file="$(find sac_drivers)/launch/scorbot_drivers.launch"></include>
     <include file="$(find sac_translators)/launch/translators.launch"></include>
-    <include file="$(find sac_controllers)/launch/controllers.launch"></include>
+    <!--include file="$(find sac_controllers)/launch/controllers.launch"></include-->
 </launch>
