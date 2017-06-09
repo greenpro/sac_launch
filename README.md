@@ -1,6 +1,6 @@
 # Southern Arm Control Launch
 
-This project holds the files for launching the various projects in the Southern Arm Control workspace. Full documentation for the sac project can be found at craigcode1010.com under projects > SAC.
+This project holds the files for launching the various projects in the Southern Arm Control workspace. Full documentation for the sac project can be found at [CraigCode1010.com](craigcode1010.com) under projects > SAC.
 
 ## Installation
 
